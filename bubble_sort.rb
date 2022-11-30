@@ -1,6 +1,5 @@
 def bubble_sort(array)
-    previous = Array.new
-
+    
     for i in 1..array.length-1
         for i in 0..array.length-2
             if array[i] > array[i+1]
