@@ -10,4 +10,3 @@ def caesar_cipher(string, shift)
   end
   result
 end
-# puts caesar_cipher('What a string!', 5)
